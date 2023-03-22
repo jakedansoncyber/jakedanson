@@ -1,0 +1,11 @@
+for look {
+    
+}
+
+do{
+    // some stuff here
+}while(true)
+
+do{
+    // some stuff here
+}while(true)
